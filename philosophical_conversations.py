@@ -207,7 +207,7 @@ async def main():
     st.title(":blue[Philosophical Validations]")
 
     # Markdown statements on Streamlit
-    st.markdown("***:rainbow[How'd it be if 🧙‍♂️ Plato, 🧑‍🏫 Socrates, 🧑‍🎓 Aristotle, 🧑‍🎨 Descartes, Thomas Aquinas 🧑‍🏭 could come alive now? ALl at once?]***")
+    st.markdown("***:rainbow[How'd it be if 🧙‍♂️ Plato, 🧑‍🏫 Socrates, 🧑‍🎓 Aristotle, 🧑‍🎨 Descartes, Thomas Aquinas 🧑‍🏭 could come alive now? All at once?]***")
     st.markdown("That's exactly what you can experience on this page!")
 
     st.markdown("***:violet[Enter your query about anything and watch the explanations in five different philosophical personas unleash!]***")
