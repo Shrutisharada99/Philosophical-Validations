@@ -1,0 +1,6 @@
+asyncio
+autogen-agentchat
+pyautogen[azure]
+streamlit
+autogen
+openai
