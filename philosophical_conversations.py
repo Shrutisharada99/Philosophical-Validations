@@ -30,7 +30,9 @@ az_model_config = {
         "api_type": "azure",
         "api_version": api_version
             }
-        ]
+        ],
+        "seed":99,
+        "temperature": 0.9
 }
 
 # Define list to track agent during Group Chat
