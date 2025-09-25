@@ -1,4 +1,4 @@
-# Philosophical-Validations
+# Autogen Implementation - Philosophical Validations
 
 Autonomous execution of the following agents using ‘GroupChat’ for general user queries:
 <ul type = 'triangle'> <li> PlatoAgent – Answers user question from data sources and web search. </li>
